@@ -1,0 +1,425 @@
+{
+    "ABT": {
+        "chat_gpt": "Abbott Laboratories, with its FreeStyle Libre glucose monitoring system, indirectly benefits from increased health awareness.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "AMGN": {
+        "chat_gpt": "Amgen Inc., with its focus on human therapeutics, could benefit indirectly from the overall growth in the healthcare sector.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.businessinsider.com/weight-loss-stocks-supplying-developing-drugs-like-ozempic-list-2024-3",
+                "title": "16 Stocks With Weight-Loss Drugs Like Ozempic Approved ...",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.morningstar.com/stocks/obesity-drug-stocks-where-invest-now",
+                "title": "Obesity Drug Stocks: Where to Invest Now",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.wsj.com/livecoverage/stock-market-today-earnings-05-03-2024/card/novo-nordisk-s-ozempic-stock-rally-is-hitting-a-wall-XCNyKD4ZCSaOFojT5D1V",
+                "title": "Amgen Knocks Novo Nordisk's Ozempic Stock Rally. Its ...",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "BMY": {
+        "chat_gpt": "Bristol-Myers Squibb Company, with a strong presence in the healthcare market, could see indirect benefits from increased health awareness and drug innovation.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "DXCM": {
+        "chat_gpt": "DexCom, Inc., a leader in continuous glucose monitoring systems, indirectly benefits as more people manage their health proactively.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "GILD": {
+        "chat_gpt": "Gilead Sciences, Inc., known for its research in therapeutics, could indirectly benefit from the heightened focus on innovative healthcare solutions.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "JNJ": {
+        "chat_gpt": "Johnson & Johnson, a diversified healthcare giant, could see indirect benefits through its pharmaceutical and consumer health divisions.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "LLY": {
+        "chat_gpt": "Eli Lilly and Company, a competitor in the diabetes and weight management market, could innovate or adjust strategies in response to Ozempic's success.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.forbes.com/sites/investor-hub/article/6-stocks-and-1-etf-that-benefit-from-ozempics-popularity/",
+                "title": "6 Stocks And 1 ETF That Benefit From Ozempic's Popularity",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.businessinsider.com/weight-loss-stocks-supplying-developing-drugs-like-ozempic-list-2024-3",
+                "title": "16 Stocks With Weight-Loss Drugs Like Ozempic Approved ...",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.morningstar.com/stocks/obesity-drug-stocks-where-invest-now",
+                "title": "Obesity Drug Stocks: Where to Invest Now",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/Pharmdca/status/1780584907867333005",
+                "text": "$LLY Shares up 2.3%\n\nEli Lillys drug Zepbound significantly reduced the severity of sleep apnea in patients in a new study, while also helping them lose weight.\n\n$VKTX $NVO\n\nLong $VKTX $LLY",
+                "username": "Pharmdca",
+                "user_url": "https://twitter.com/Pharmdca",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1461368864525013010/Eih1ekJE_normal.jpg",
+                "date": "2024-04-17T13:11:38Z"
+            },
+            {
+                "url": "https://twitter.com/SpecialSitsNews/status/1780994184276480342",
+                "text": "Ozempic babies now a thing. Who would have thought that losing weight and being healthy would result in higher pregnancies? :) $LLY $NVO $VANI $VKTX",
+                "username": "SpecialSitsNews",
+                "user_url": "https://twitter.com/SpecialSitsNews",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1610807772836233218/HXHJ7Ljx_normal.jpg",
+                "date": "2024-04-18T16:17:57Z"
+            },
+            {
+                "url": "https://twitter.com/ohadhammer/status/1776943252555378872",
+                "text": "Top companies and drugs by sales in 2023 from Nature Reviews Drug Discovery. \n$LLY and  $NOVO are not on the list (they will be next year of course...). Just shows how forward looking our industry is as both have higher market caps than any of the top 10 companies   https://t.co/dAWzY8bTVb",
+                "username": "ohadhammer",
+                "user_url": "https://twitter.com/ohadhammer",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1620730999515611143/BDnq61eI_normal.jpg",
+                "date": "2024-04-07T12:01:00Z"
+            }
+        ],
+        "experts": []
+    },
+    "MNKD": {
+        "chat_gpt": "MannKind Corporation, involved in inhaled therapeutic products for diabetes, could see indirect benefits as the market for diabetes and weight management drugs expands.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "MRK": {
+        "chat_gpt": "Merck & Co., Inc., while not directly linked to Ozempic, has a strong portfolio in diabetes care and could benefit from overall market growth.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.businessinsider.com/weight-loss-stocks-supplying-developing-drugs-like-ozempic-list-2024-3",
+                "title": "16 Stocks With Weight-Loss Drugs Like Ozempic Approved ...",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/MrConspiracy33/status/1775521190049906781",
+                "text": "In 2023, Ozempic, Rybelsus &amp; Wegovy had combined sales of about $21.1 billion for Novo Nordisk, the Danish company that produces them. That made up nearly two-thirds of Novo Nordisk\u2019s entire revenue that year\n$LLY $NVO $ALT $VKTX $XBI $SPY $QQQ $IWM $MRK $JNJ $PFE $AMGN $NVS $AZN https://t.co/jRfgEwiSzA",
+                "username": "MrConspiracy33",
+                "user_url": "https://twitter.com/MrConspiracy33",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1730353317623246848/NgIKgbq9_normal.jpg",
+                "date": "2024-04-03T13:50:13Z"
+            },
+            {
+                "url": "https://twitter.com/AisenstadtR/status/1784934927005360441",
+                "text": "$NVO $PFE $LLY $ABBV $SNY $MRK $XBI $IBB $SPY Novo Nordisk: Growth Is Still A Better Choice\n\nhttps://t.co/SzNnu47Qie\n\n#stocks #investing #valueinvesting #Growth #HealthCare #largecap #Acquisition #inflation #wegovy #ozempic #Mounjaro #Tirzepatide",
+                "username": "AisenstadtR",
+                "user_url": "https://twitter.com/AisenstadtR",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1702206003213643776/aY3KomOF_normal.jpg",
+                "date": "2024-04-29T13:17:03Z"
+            },
+            {
+                "url": "https://twitter.com/BossTradingGrp/status/1785478764354470025",
+                "text": "$NVO $LLY $MRK $AZN $GSK $TEVA\nFTC challenges \u2018junk\u2019 patents held by 10 drugmakers, including for Novo Nordisk\u2019s Ozempic\n\nhttps://t.co/B2PiYIBJ7Z\n\n#BOSSTrading #Ozempic #pharmaceutical",
+                "username": "BossTradingGrp",
+                "user_url": "https://twitter.com/BossTradingGrp",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1784669782991847424/FkGtGIcJ_normal.jpg",
+                "date": "2024-05-01T01:18:04Z"
+            }
+        ],
+        "experts": []
+    },
+    "NVO": {
+        "chat_gpt": "Novo Nordisk, the maker of Ozempic, directly benefits from the drug's success.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.forbes.com/sites/investor-hub/article/6-stocks-and-1-etf-that-benefit-from-ozempics-popularity/",
+                "title": "6 Stocks And 1 ETF That Benefit From Ozempic's Popularity",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.businessinsider.com/weight-loss-stocks-supplying-developing-drugs-like-ozempic-list-2024-3",
+                "title": "16 Stocks With Weight-Loss Drugs Like Ozempic Approved ...",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.morningstar.com/stocks/obesity-drug-stocks-where-invest-now",
+                "title": "Obesity Drug Stocks: Where to Invest Now",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "PFE": {
+        "chat_gpt": "Pfizer Inc., with its broad healthcare portfolio, could indirectly benefit from the increased focus on health and wellness.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.morningstar.com/stocks/obesity-drug-stocks-where-invest-now",
+                "title": "Obesity Drug Stocks: Where to Invest Now",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.morningstar.com/stocks/obesity-drug-stocks-time-buy",
+                "title": "Obesity Drug Stocks: Time to Buy?",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "PODD": {
+        "chat_gpt": "Insulet Corporation, another insulin pump manufacturer, stands to benefit from the broader focus on diabetes and weight management.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "REGN": {
+        "chat_gpt": "Regeneron Pharmaceuticals, Inc., known for its innovative treatments, could indirectly benefit from increased investment and interest in healthcare solutions.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "TNDM": {
+        "chat_gpt": "Tandem Diabetes Care, Inc., maker of insulin pumps, could see increased demand alongside the rise in proactive health management.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "UNH": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/krishamoud/status/1785124238489493744",
+                "text": "I did a deep dive on the healthcare industry.  Check it out!\n$LLY $UNH $JNJ $MRK $ABBV \nhttps://t.co/lUX8hb4xah",
+                "username": "krishamoud",
+                "user_url": "https://twitter.com/krishamoud",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1265543892558110720/ESKXOcUy_normal.jpg",
+                "date": "2024-04-30T01:49:19Z"
+            },
+            {
+                "url": "https://twitter.com/pharmalot/status/1783128142065897880",
+                "text": "Pharmalot.. Pharmalittle.. Good Morning: We\u2019re reading about GLP-1 spending, Biosimilar patient costs, and more news.. https://t.co/BBAkkq9q2p #pharma #weight #obesity #Alzheimer #Harvard #biosimilars #insulin #Wegovy #Ozempic $NVO $LLY $BIIB $NVS $SNY $ESAIY $CVS $CI $UNH",
+                "username": "pharmalot",
+                "user_url": "https://twitter.com/pharmalot",
+                "user_image_url": "https://pbs.twimg.com/profile_images/692789281404907520/zwDNx-Jn_normal.jpg",
+                "date": "2024-04-24T13:37:32Z"
+            },
+            {
+                "url": "https://twitter.com/krishamoud/status/1785661236991897630",
+                "text": "The Producer Price Index (PPI) for the healthcare industry is consistently increasing. Especially from 2019-2023. That means the companies in the healthcare sector will continue seeing growth. $XLV $LLY $UNH $JNJ $MRK $ABBV\n\nhttps://t.co/oHQWZ55MAE",
+                "username": "krishamoud",
+                "user_url": "https://twitter.com/krishamoud",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1265543892558110720/ESKXOcUy_normal.jpg",
+                "date": "2024-05-01T13:23:09Z"
+            }
+        ],
+        "experts": []
+    },
+    "META": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/Trade_4_Freedom/status/1778804791562436769",
+                "text": "Looking to add a liquid leaders section in the weekly mkt dash. These names fit well I think:\n\n$ANF $APP $CAVA $COIN $LLY $META $NVDA $SPOT $TDW $UBER\n\nThoughts? Tried not to duplicate industry. For instance, chose NVDA and left out SMCI MU.",
+                "username": "Trade_4_Freedom",
+                "user_url": "https://twitter.com/Trade_4_Freedom",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1600117532635062273/WMmKPyso_normal.jpg",
+                "date": "2024-04-12T15:18:05Z"
+            },
+            {
+                "url": "https://twitter.com/pauldejong_/status/1784881449696452656",
+                "text": "2024 YTD S&amp;P 500 Returns by Sector %. \n$GOOG $META $CMG $AMZN $TSLA $MPC $WMT $LLY $MRK $BA $GE $SMCI $NVDA $MU $INTC $CEG $SPY https://t.co/st9uAtmEZs",
+                "username": "pauldejong_",
+                "user_url": "https://twitter.com/pauldejong_",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1516118478708789248/ljYPOOJ1_normal.jpg",
+                "date": "2024-04-29T09:44:33Z"
+            },
+            {
+                "url": "https://twitter.com/learn1ngt0trade/status/1784223584308932781",
+                "text": "If it's of interest, here is my current portfolio in 3 charts:\n- Sector\n- Subsector\n- Individual stocks\n\nWhat would you change? \n\n$QQQ $SPY $NVDA $SMCI $VRT $AVGO $GOOGL $AMZN $META $MSFT $PLTR $DDOG $CRWD $SHOP $UBER $APP $SPOT $TMDX $LLY $UNH $JPM $BAC $GS $SQ $HOOD  #Bitcoin https://t.co/m2iGmPFoXX",
+                "username": "learn1ngt0trade",
+                "user_url": "https://twitter.com/learn1ngt0trade",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1726602093325385728/aQ1Or8bA_normal.jpg",
+                "date": "2024-04-27T14:10:26Z"
+            }
+        ],
+        "experts": []
+    },
+    "MSFT": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/BossTradingGrp/status/1788711796695834757",
+                "text": "#DARKPOOL\nLARGE: $MSFT $DELL $MRVL $WDC $SE $TCOM $UBER $RUN $EOLS $ETWO $IAS $SABR $RPRX $VRT $LLY $TJX $V  \nSECTOR: $XLP \nETF: $FXI $KWEB\n\n$SPY $QQQ $IWM $VXX $UVXY $SPX $RTY $DIA $VXX $TQQQ $SQQQ #BOSSTrading https://t.co/Njn9a4CNOP",
+                "username": "BossTradingGrp",
+                "user_url": "https://twitter.com/BossTradingGrp",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1784669782991847424/FkGtGIcJ_normal.jpg",
+                "date": "2024-05-09T23:24:59Z"
+            },
+            {
+                "url": "https://twitter.com/learn1ngt0trade/status/1784223584308932781",
+                "text": "If it's of interest, here is my current portfolio in 3 charts:\n- Sector\n- Subsector\n- Individual stocks\n\nWhat would you change? \n\n$QQQ $SPY $NVDA $SMCI $VRT $AVGO $GOOGL $AMZN $META $MSFT $PLTR $DDOG $CRWD $SHOP $UBER $APP $SPOT $TMDX $LLY $UNH $JPM $BAC $GS $SQ $HOOD  #Bitcoin https://t.co/m2iGmPFoXX",
+                "username": "learn1ngt0trade",
+                "user_url": "https://twitter.com/learn1ngt0trade",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1726602093325385728/aQ1Or8bA_normal.jpg",
+                "date": "2024-04-27T14:10:26Z"
+            },
+            {
+                "url": "https://twitter.com/hataf_news/status/1780852452780319005",
+                "text": "S&amp;P 500 Ends Lower as Nvidia Drags Down Tech Sector \u2013 Market Update\n\n$TSLA $AAPL $NVDA $AMD $META $MSFT $AMZN $INTC $ASML $SMCI $UAL $LLY $TSM $GOOGL $DJT $QQQ $SPY\n\nhttps://t.co/mUbIs6wWZN",
+                "username": "hataf_news",
+                "user_url": "https://twitter.com/hataf_news",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1685965373353693184/jo5Eta49_normal.jpg",
+                "date": "2024-04-18T06:54:46Z"
+            }
+        ],
+        "experts": []
+    },
+    "SMCI": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/Flashgrfx_/status/1783899748446924952",
+                "text": "I say $LLY $NVO $VKTX will surge like how AI &amp; TECH stocks surged this year, as the demand for OZEMPIC rises \n\n$SMCI \n$AVGO\n$NVDA",
+                "username": "Flashgrfx_",
+                "user_url": "https://twitter.com/Flashgrfx_",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1774470788772450304/MVfAstcH_normal.jpg",
+                "date": "2024-04-26T16:43:37Z"
+            },
+            {
+                "url": "https://twitter.com/m_means28/status/1784404577321976055",
+                "text": "Gonna be a fun week of earnings\n\nHealthcare Sector - $LLY, $PFE, $CVS, $MRNA \n\nFintech - $SOFI, $PYPL, $SQ\n\nConsumer - $AMZN, $MCD, $SBUX, $KO\n\nTech - $AAPL, $AMD, $SMCI, $QCOM, $NET\n\nPlus $COIN https://t.co/6WImfHH7WH",
+                "username": "m_means28",
+                "user_url": "https://twitter.com/m_means28",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1773716765266292736/Ue06M_IP_normal.jpg",
+                "date": "2024-04-28T02:09:38Z"
+            },
+            {
+                "url": "https://twitter.com/pauldejong_/status/1784881449696452656",
+                "text": "2024 YTD S&amp;P 500 Returns by Sector %. \n$GOOG $META $CMG $AMZN $TSLA $MPC $WMT $LLY $MRK $BA $GE $SMCI $NVDA $MU $INTC $CEG $SPY https://t.co/st9uAtmEZs",
+                "username": "pauldejong_",
+                "user_url": "https://twitter.com/pauldejong_",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1516118478708789248/ljYPOOJ1_normal.jpg",
+                "date": "2024-04-29T09:44:33Z"
+            }
+        ],
+        "experts": []
+    },
+    "UBER": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/Trade_4_Freedom/status/1778804791562436769",
+                "text": "Looking to add a liquid leaders section in the weekly mkt dash. These names fit well I think:\n\n$ANF $APP $CAVA $COIN $LLY $META $NVDA $SPOT $TDW $UBER\n\nThoughts? Tried not to duplicate industry. For instance, chose NVDA and left out SMCI MU.",
+                "username": "Trade_4_Freedom",
+                "user_url": "https://twitter.com/Trade_4_Freedom",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1600117532635062273/WMmKPyso_normal.jpg",
+                "date": "2024-04-12T15:18:05Z"
+            },
+            {
+                "url": "https://twitter.com/BossTradingGrp/status/1788711796695834757",
+                "text": "#DARKPOOL\nLARGE: $MSFT $DELL $MRVL $WDC $SE $TCOM $UBER $RUN $EOLS $ETWO $IAS $SABR $RPRX $VRT $LLY $TJX $V  \nSECTOR: $XLP \nETF: $FXI $KWEB\n\n$SPY $QQQ $IWM $VXX $UVXY $SPX $RTY $DIA $VXX $TQQQ $SQQQ #BOSSTrading https://t.co/Njn9a4CNOP",
+                "username": "BossTradingGrp",
+                "user_url": "https://twitter.com/BossTradingGrp",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1784669782991847424/FkGtGIcJ_normal.jpg",
+                "date": "2024-05-09T23:24:59Z"
+            },
+            {
+                "url": "https://twitter.com/learn1ngt0trade/status/1784223584308932781",
+                "text": "If it's of interest, here is my current portfolio in 3 charts:\n- Sector\n- Subsector\n- Individual stocks\n\nWhat would you change? \n\n$QQQ $SPY $NVDA $SMCI $VRT $AVGO $GOOGL $AMZN $META $MSFT $PLTR $DDOG $CRWD $SHOP $UBER $APP $SPOT $TMDX $LLY $UNH $JPM $BAC $GS $SQ $HOOD  #Bitcoin https://t.co/m2iGmPFoXX",
+                "username": "learn1ngt0trade",
+                "user_url": "https://twitter.com/learn1ngt0trade",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1726602093325385728/aQ1Or8bA_normal.jpg",
+                "date": "2024-04-27T14:10:26Z"
+            }
+        ],
+        "experts": []
+    },
+    "VRT": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/BossTradingGrp/status/1788711796695834757",
+                "text": "#DARKPOOL\nLARGE: $MSFT $DELL $MRVL $WDC $SE $TCOM $UBER $RUN $EOLS $ETWO $IAS $SABR $RPRX $VRT $LLY $TJX $V  \nSECTOR: $XLP \nETF: $FXI $KWEB\n\n$SPY $QQQ $IWM $VXX $UVXY $SPX $RTY $DIA $VXX $TQQQ $SQQQ #BOSSTrading https://t.co/Njn9a4CNOP",
+                "username": "BossTradingGrp",
+                "user_url": "https://twitter.com/BossTradingGrp",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1784669782991847424/FkGtGIcJ_normal.jpg",
+                "date": "2024-05-09T23:24:59Z"
+            },
+            {
+                "url": "https://twitter.com/learn1ngt0trade/status/1784223584308932781",
+                "text": "If it's of interest, here is my current portfolio in 3 charts:\n- Sector\n- Subsector\n- Individual stocks\n\nWhat would you change? \n\n$QQQ $SPY $NVDA $SMCI $VRT $AVGO $GOOGL $AMZN $META $MSFT $PLTR $DDOG $CRWD $SHOP $UBER $APP $SPOT $TMDX $LLY $UNH $JPM $BAC $GS $SQ $HOOD  #Bitcoin https://t.co/m2iGmPFoXX",
+                "username": "learn1ngt0trade",
+                "user_url": "https://twitter.com/learn1ngt0trade",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1726602093325385728/aQ1Or8bA_normal.jpg",
+                "date": "2024-04-27T14:10:26Z"
+            }
+        ],
+        "experts": []
+    },
+    "AZN": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.bankrate.com/investing/weight-loss-drug-stocks-to-watch/",
+                "title": "5 Weight-Loss Drugs To Watch",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "VKTX": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.businessinsider.com/weight-loss-stocks-supplying-developing-drugs-like-ozempic-list-2024-3",
+                "title": "16 Stocks With Weight-Loss Drugs Like Ozempic Approved ...",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    }
+}
