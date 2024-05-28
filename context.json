@@ -420,6 +420,11 @@
             }
         ],
         "tweets": [],
-        "experts": []
+        "experts": [
+            {
+                "uuid": "e8e813c9-e332-4cab-a6cb-79ade8831a9e",
+                "comment": "Viking Therapeutics isn’t currently manufacturing a weight-loss drug, but their lead candidate, VK2809, is in phase two trials. In addition to its experimental weight-loss injection drug, Viking also plans to start a phase two trial of a once-a-day oral weight-loss tablet later this year. https://www.bankrate.com/investing/weight-loss-drug-stocks-to-watch/ "
+            }
+        ]
     }
 }
